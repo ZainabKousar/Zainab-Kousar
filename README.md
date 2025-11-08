@@ -38,6 +38,9 @@ Deployed and automated a static website with CI/CD pipeline using GitHub Actions
 📘 Getting Started with DevOps, AWS Training and Certification, 2025
 ☁️ AWS Cloud Practitioner Essentials, AWS Training and Certification, 2025
 📫 Connect with Me
-💼 LinkedIn: https://www.linkedin.com/in/zainabkousar   
+
+💼 LinkedIn: https://www.linkedin.com/in/zainabkousar
+
 🧑‍💻 GitHub: [github.com/ZainabKousar](https://github.com/ZainabKousar)
+
 📧 Email: zainabmeraj3103@gmail.com
